@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d450a66-52d7-4304-aedc-184311a185cd" name="Changes" comment="Fix first sort&#10;&#10;Added Unit tests for first sort&#10;&#10;Created package for custom exceptions&#10;&#10;Added exception &quot;EmptyListException&quot;, throws if list is empty">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HURpbMIXNvtp1zl5yf8RpgkcZd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SubstringSortTesting">
+    <configuration name="Default input" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lab3" />
+      <option name="PROGRAM_PARAMETERS" value="beefree makefree freak refregirator fred" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test input" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lab3" />
+      <option name="PROGRAM_PARAMETERS" value="aa bca cac deaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringSortTest.defaultCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SubstringSortTest" />
+      <option name="METHOD_NAME" value="defaultCaseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringSortTest.nullElementInListThrowsNullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SubstringSortTest" />
+      <option name="METHOD_NAME" value="nullElementInListThrowsNullPointerException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringSortTesting" type="JUnit" factoryName="JUnit">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SubstringSortTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Default input" />
+      <item itemvalue="Application.Test input" />
+      <item itemvalue="JUnit.SubstringSortTesting" />
+      <item itemvalue="JUnit.SubstringSortTest.defaultCaseTest" />
+      <item itemvalue="JUnit.SubstringSortTest.nullElementInListThrowsNullPointerException" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SubstringSortTest.nullElementInListThrowsNullPointerException" />
+        <item itemvalue="JUnit.SubstringSortTest.defaultCaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d450a66-52d7-4304-aedc-184311a185cd" name="Changes" comment="" />
+      <created>1668337860461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668337860461</updated>
+      <workItem from="1668337862663" duration="16073000" />
+      <workItem from="1668364119715" duration="6148000" />
+      <workItem from="1668415480452" duration="891000" />
+      <workItem from="1668416529741" duration="8184000" />
+    </task>
+    <task id="LOCAL-00001" summary="Solved first sort&#10;&#10;Added required logic into main method &#10;&#10;Added class &quot;MyList&quot; that can be sorted according to the substring position&#10;&#10;Added exception &quot;NoSuchSubstringException&quot;">
+      <created>1668369787810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668369787810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solved first sort&#10;&#10;Added required logic into main method &#10;&#10;Added class &quot;MyList&quot; that can be sorted according to the substring position&#10;&#10;Added exception &quot;NoSuchSubstringException&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved first sort&#10;&#10;Added required logic into main method &#10;&#10;Added class &quot;MyList&quot; that can be sorted according to the substring position&#10;&#10;Added exception &quot;NoSuchSubstringException&quot;" />
+  </component>
+</project>
