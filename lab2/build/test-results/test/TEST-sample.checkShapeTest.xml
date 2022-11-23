@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sample.checkShapeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-23T05:36:12" hostname="DESKTOP-1KD1DEO" time="0.059">
+  <properties/>
+  <testcase name="checkShapeNegativeSquareResult()" classname="sample.checkShapeTest" time="0.038"/>
+  <testcase name="checkShapeSquareResult()" classname="sample.checkShapeTest" time="0.002"/>
+  <testcase name="checkShapeRhombusResult()" classname="sample.checkShapeTest" time="0.005"/>
+  <testcase name="checkShapeParallelogramResult()" classname="sample.checkShapeTest" time="0.002"/>
+  <testcase name="checkShapeTetragonResult()" classname="sample.checkShapeTest" time="0.002"/>
+  <testcase name="checkShapeNotTetragonResult()" classname="sample.checkShapeTest" time="0.001"/>
+  <system-out><![CDATA[The shape is a parallelogram!
+The shape is a rhombus!
+The shape is a square!
+The shape is a parallelogram!
+The shape is a rhombus!
+The shape is a square!
+The shape is a parallelogram!
+The shape is a rhombus!
+The shape is a parallelogram!
+The shape is just a tetragon!
+The shape is not a tetragon!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

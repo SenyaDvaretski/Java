@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sample.task1.SubstringSortTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-21T08:59:02" hostname="DESKTOP-1KD1DEO" time="0.052">
+  <properties/>
+  <testcase name="reverseOrderCase()" classname="sample.task1.SubstringSortTest" time="0.039"/>
+  <testcase name="nullElementInListThrowsNullPointerException()" classname="sample.task1.SubstringSortTest" time="0.002"/>
+  <testcase name="nullValueInSubstringThrowsNullPointerException()" classname="sample.task1.SubstringSortTest" time="0.001"/>
+  <testcase name="noIgnoreCaseTest()" classname="sample.task1.SubstringSortTest" time="0.001"/>
+  <testcase name="noSubstringInAnyElementThrowsNoSuchSubstringException()" classname="sample.task1.SubstringSortTest" time="0.002"/>
+  <testcase name="singleElementTest()" classname="sample.task1.SubstringSortTest" time="0.0"/>
+  <testcase name="emptyListThrowsEmptyListException()" classname="sample.task1.SubstringSortTest" time="0.001"/>
+  <testcase name="defaultCaseTest()" classname="sample.task1.SubstringSortTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

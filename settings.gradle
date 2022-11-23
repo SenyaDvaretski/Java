@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'Java'
+
+include 'lab1'
+include 'lab2'
+include 'lab3'
+
